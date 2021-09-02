@@ -1,4 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
+#git clone https://github.com/SQRV/SQRV_style
 clear
 # warna
 bt="\033[34;1m"
